@@ -1,0 +1,14 @@
+cd ชื่อสถานที่
+cd.. ออกจากที่นั้น
+cd mkdir ชื่อfloder          //create floder
+echo > text.txt           // create file txt
+echo > jdfljdklfjgkldjkf > peal.txt  // create text with String inside
+nul > peall.txt           // create empty file text
+
+
+
+github 
+  
+open wed    create new respostoy  (+ right upper conner of web)
+
+open app  กด +  สร้าง respotory     กด publish  แล้ว   กด publishing อีกที
